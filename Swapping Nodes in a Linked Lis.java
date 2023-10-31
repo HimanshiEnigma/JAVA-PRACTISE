@@ -5,7 +5,6 @@ Node(int d){
 data = d;
 next = null;
 }
-marinatannyachakma692@gmail.com
 }
 class Solution {
 Node head;
